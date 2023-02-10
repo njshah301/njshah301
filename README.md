@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C2E&background=7EDEFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nilay+Shah;Hope+you+have+good+time+here.%F0%9F%98%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C2E&background=7EDEFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nilay+Shah;Hope+you+have+good+time+here.%F0%9F%98%8E;A+passionate+Full+Stack+developer.)](https://git.io/typing-svg)
 
 
-<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njshah301&label=Profile%20views&color=0e75b6&style=flat" alt="njshah301" /> </p>
 

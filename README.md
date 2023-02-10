@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<a href="https://twitter.com/njshah301" class="fa fa-twitter" target="blank"></a>
+<a href="https://twitter.com/njshah301" class="fa fa-twitter"></a>
 <a href="https://linkedin.com/in/nilay-shah-7610551b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilay-shah-7610551b8" height="30" width="40" /></a>
 <a href="https://instagram.com/nilay_shah_nj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilay_shah_nj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nilay_shah301" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nilay_shah301" height="30" width="40" /></a>

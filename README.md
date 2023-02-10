@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C2E&background=7EDEFF00&width=435&lines=Hello+there%2C+I+am+Nilay+Shah%F0%9F%91%8D;Hope+you+have+good+time+here.%F0%9F%98%8E)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Nilay Shah</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 

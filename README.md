@@ -19,11 +19,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/njshah301"></a>
-<a href="https://linkedin.com/in/nilay-shah-7610551b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilay-shah-7610551b8" height="30" width="40" /></a>
-<a href="https://instagram.com/nilay_shah_nj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilay_shah_nj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nilay-shah-7610551b8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" alt="nilay-shah-7610551b8" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/njshah301" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Leetcode.svg" alt="njshah301" height="30" width="40" /></a>
+<a href="https://instagram.com/nilay_shah_nj" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="nilay_shah_nj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nilay_shah301" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nilay_shah301" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/h201901026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h201901026" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/njshah301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="njshah301" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/h201901026" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="h201901026" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
